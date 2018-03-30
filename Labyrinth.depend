@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431606484 source:c:\users\asus\desktop\labyrinth\main.c
+	<stdio.h>
+	<stdlib.h>
+
